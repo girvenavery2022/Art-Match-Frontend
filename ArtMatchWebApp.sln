@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtMatchWebApp", "ArtMatchWebApp\ArtMatchWebApp.csproj", "{375FA9D9-0EA0-4DD5-A3E9-5E729A47F081}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375FA9D9-0EA0-4DD5-A3E9-5E729A47F081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{375FA9D9-0EA0-4DD5-A3E9-5E729A47F081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{375FA9D9-0EA0-4DD5-A3E9-5E729A47F081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{375FA9D9-0EA0-4DD5-A3E9-5E729A47F081}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D33AE3-266F-401A-86F5-8E51E265EB87}
+	EndGlobalSection
+EndGlobal
